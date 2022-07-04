@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>69</LogNumber>
+    <LogTimeStamp>07/03/2022 08:53:17</LogTimeStamp>
+    <BIOS_Data>
+      <ErrorCategory>OS_BOOT_FAILURE</ErrorCategory>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+      <OSBootFailCount>2</OSBootFailCount>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
